@@ -1,6 +1,6 @@
 [
 {
- "version": "1.0.0",
+ "version": "1.0.3",
  "update": "🛠️ Perbaikan Bug & Stabilitas: Menangani bug pemutaran dan crash ringan saat perpindahan layar, menstabilkan pemuatan data agar lebih responsif, serta memperbaiki penanganan keyboard di layar komentar agar tidak menutupi input.
 Butir 🎨 UI/UX Lebih Rapi & Modern: Menyempurnakan tata letak, jarak antar elemen, bottom sheet gelap, dan transisi antar halaman agar terasa lebih mulus serta konsisten.
 Butir 🖼️ Frame Avatar: Menambahkan dukungan frame avatar untuk mempercantik tampilan profil pengguna di komentar, live chat, dan halaman terkait.
@@ -11,6 +11,6 @@ Butir 📝 Perbaikan Komentar: Mempermudah balas komentar (termasuk balas balasa
 Butir 👤 Edit Profile: Menambahkan fitur edit profil agar pengguna dapat memperbarui informasi akun dan tampilan profil dengan mudah.
 Butir ⚙️ Fitur Tambahan Lainnya: Melengkapi berbagai peningkatan kecil di balik layar seperti alur pelaporan, berbagi tautan, dan pemantauan progress unduhan agar pengalaman menonton makin nyaman.",
  "closedl": "true",
- "linkup": "dongflix.my.id"
+ "linkup": "https://www.mediafire.com/file/wwfrvy2145veqo9/app-debug.apk/file"
 }
 ]
