@@ -1,7 +1,15 @@
 [
 {
  "version": "1.0.0",
- "update": "Perbaikan bug, Penambahan Lompatin Sinopsis, Perbarui Tampilan, dll",
+ "update": "🛠️ Perbaikan Bug & Stabilitas: Menangani bug pemutaran dan crash ringan saat perpindahan layar, menstabilkan pemuatan data agar lebih responsif, serta memperbaiki penanganan keyboard di layar komentar agar tidak menutupi input.
+Butir 🎨 UI/UX Lebih Rapi & Modern: Menyempurnakan tata letak, jarak antar elemen, bottom sheet gelap, dan transisi antar halaman agar terasa lebih mulus serta konsisten.
+Butir 🖼️ Frame Avatar: Menambahkan dukungan frame avatar untuk mempercantik tampilan profil pengguna di komentar, live chat, dan halaman terkait.
+Butir 📺 Perbaikan Resolusi: Memperbaiki deteksi dan pemilihan kualitas/resolusi video agar pemutaran lebih tepat dan tidak mudah tersendat.
+Butir 🔔 Notifikasi: Menambahkan sistem notifikasi untuk memantau balasan dan penyebutan (@) dengan tampilan yang lebih jelas serta navigasi langsung ke tujuan.
+Butir 💬 Perbaikan Live Chat: Mengoptimalkan pemuatan pesan, auto-scroll, tampilan badge/waktu, serta kenyamanan interaksi obrolan langsung.
+Butir 📝 Perbaikan Komentar: Mempermudah balas komentar (termasuk balas balasan pakai @), edit langsung di kolom input, serta aksi tahan lama yang lebih ringkas.
+Butir 👤 Edit Profile: Menambahkan fitur edit profil agar pengguna dapat memperbarui informasi akun dan tampilan profil dengan mudah.
+Butir ⚙️ Fitur Tambahan Lainnya: Melengkapi berbagai peningkatan kecil di balik layar seperti alur pelaporan, berbagi tautan, dan pemantauan progress unduhan agar pengalaman menonton makin nyaman.",
  "closedl": "true",
  "linkup": "dongflix.my.id"
 }
